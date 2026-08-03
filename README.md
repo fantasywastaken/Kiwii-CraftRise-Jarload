@@ -312,7 +312,7 @@ Nothing is required at runtime except Windows 10/11 x64 and the CraftRise instal
 
 - **[Ox85](https://github.com/Ox85)** — for continuous contributions and help throughout the project.
 - **alperencontact** (Discord) — for guidance on hook protection and other essential internals.
-- **CheatGlobal — [`craftrise-seiko-3-hitsiz-jarload`](https://cheatglobal.com/konu/craftrise-seiko-3-hitsiz-jarload.124493/)** — reference for the pewa 3-hit injector source that shaped the reach implementation.
+- **CheatGlobal — [`craftrise-seiko-3-hitsiz-jarload`](https://cheatglobal.com/konu/craftrise-seiko-3-hitsiz-jarload.124493/)** — reference for the non-3-hit injector source.
 - **CheatGlobal — [`pro-jar-source-developed-by-atapiro-coslant`](https://cheatglobal.com/konu/pro-jar-source-developed-by-atapiro-coslant.127797/)** — reference for defeating the 60 FPS anti-cheat throttle.
 
 ---
